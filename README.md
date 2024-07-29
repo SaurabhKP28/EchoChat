@@ -1,8 +1,8 @@
-EchoChat Application
+**EchoChat Application**
 Overview
 EchoChat is a simple chat application built using Spring Boot, WebSocket API, HTML, JSP, CSS, and JavaScript. The application allows multiple users to communicate in real-time through a web interface.
 
-Features
+**Features**
 Real-time messaging using WebSocket.
 Simple and intuitive user interface.
 Multi-user chat support.
@@ -17,12 +17,15 @@ Java 8 or higher
 Maven
 A modern web browser (Chrome, Firefox, Edge, etc.)
 Project Structure
-Screershot
+**Screershot**
 
 ![EchoChat](https://github.com/user-attachments/assets/fc21b84b-4d82-4461-91d0-27c4216a90a9)
 
 
-Authors
+**Authors**
+
 Your Name - Saurabh Kumar Pandey
-Acknowledgements
+**Acknowledgements**
+
+
 Special thanks to all the open-source contributors whose libraries and tools were used in this project.
