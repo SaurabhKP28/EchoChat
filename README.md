@@ -17,33 +17,10 @@ Java 8 or higher
 Maven
 A modern web browser (Chrome, Firefox, Edge, etc.)
 Project Structure
-css
-echochat/
-│
-├── src/main/java/com/example/echochat
-│   ├── config
-│   │   └── WebSocketConfig.java
-│   ├── controller
-│   │   └── ChatController.java
-│   ├── model
-│   │   └── Message.java
-│   └── EchoChatApplication.java
-│
-├── src/main/resources
-│   ├── static
-│   │   ├── css
-│   │   │   └── styles.css
-│   │   ├── js
-│   │   │   └── chat.js
-│   ├── templates
-│   │   └── chat.jsp
-│   └── application.properties
-│
-├── src/test/java/com/example/echochat
-│
-├── pom.xml
-│
-└── README.md
+Screershot
+
+![Uploading EchoChat.png…]()
+
 
 Authors
 Your Name - Saurabh Kumar Pandey
