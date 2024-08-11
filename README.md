@@ -30,6 +30,7 @@ Chatting With People
 
 ![EchoChat](https://github.com/user-attachments/assets/fc21b84b-4d82-4461-91d0-27c4216a90a9)
 
+![EchoChat](https://github.com/user-attachments/assets/0e33ced8-1933-4ce0-9254-02db5d0778c3)
 
 **Authors**
 
