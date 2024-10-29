@@ -1,4 +1,4 @@
-****EchoChat Application**
+****EchoChat Application****
 Overview
 EchoChat is a simple chat application built using Spring Boot, WebSocket API, HTML, JSP, CSS, and JavaScript.
 The application allows multiple users to communicate in real-time through a web interface.
