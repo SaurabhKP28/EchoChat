@@ -6,7 +6,7 @@ The application allows multiple users to communicate in real-time through a web 
 **Features**
 Real-time messaging using WebSocket.
 Simple and intuitive user interface.
-Multi-user chat support.
+Multi-user chat support.  
 Technologies Used
 Spring Boot: Backend framework for building the application.
 WebSocket API: For real-time communication between the server and clients.
